@@ -1,4 +1,4 @@
-var endDate = new Date().getTime() + 1000800000;
+var endDate = new Date("Oct 3, 2022 12:00:00").getTime();
 
 var x = setInterval(function() {
 
